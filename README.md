@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project is an open source replica of the [RCCG Cornerstone Church Website](https://cornerstoneatx.org/)
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]
 
 ## Getting Started
 
